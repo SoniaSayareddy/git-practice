@@ -1,2 +1,3 @@
 This ia a sample document
 I'm just adding this line.
+"Adding this file to notice the change between master and feature branches"
